@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "What is a Unit?"
+date:   2014-08-17
+preview: https://raw.githubusercontent.com/ganesh737/my-beat-of-life/master/static/img/_posts/2014-05-12.jpg
+---
+
+I have been always faced with the question in my mind – “What is a Unit?” or rather a more refined way of putting it would be “What is the basis for measurement that we call as a Unit of it?”. This question comes from the time that somewhere in high school, there was a reference to Invar Steel being used to standardize the measurement across the world and the natural properties that it possess. I have wondered from a long time of the definition of a unit? The very definition of unit is that of something that remains constant over different physical parameters. Wikipedia puts it as “A unit of measurement is a definite magnitude of a physical quantity, defined and adopted by convention or by law, that is used as a standard for measurement of the same physical quantity”, Oxford dictionary puts it as “A quantity chosen as a standard in terms of which other quantities may be expressed”.
+
+Let me now consider the proposition that I am standing in an open field with One Standard length of steel rod or something in my hand. So my plane of reference is that of me standing in an open field on Earth. This would be a One Standard Unit for anyone on Earth since they are also in the same frame of reference, but for a someone who is in relative motion with respect to our system i.e. for someone in a spaceship that is going past our solar system (assuming that they are also using the same standards for measurement and if they were present in our frame of reference, they would have told that the rod in my hand is One Standard Unit), but since they are in motion and I assuming at a very high velocity, they might say that it is not (this would be the visual feel of an object getting shrunk). So a standard in length cannot withstand the velocity. If not length, can it be time or some other parameter. But we know that gravity can mangle the space-time continuum itself. This can be observed near to a black hole with its immense gravity that light itself falls prey to its gravity (which we also use as gravitational lensing). So what is the true unit i.e. one that nature uses to measure with or is it all made up by us, for us?
+
+By the way, for all practical purposes the above proposition is not going to hold true 😛 and if you want to ignore it for all I know you can still live without giving a thought about it 🙂
